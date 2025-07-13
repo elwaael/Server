@@ -244,3 +244,8 @@
 [13Jul2025 10:50:17.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (on|off|list|add|remove|reload)
 [13Jul2025 10:50:17.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
 [13Jul2025 10:50:17.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[13Jul2025 10:55:46.329] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@269fa84a
+[13Jul2025 10:55:46.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_chocowa[/127.119.97.182:35157] logged in with entity id 330 at (-1.5, 79.0, -1.5)
+[13Jul2025 10:55:46.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_chocowa joined the game
+[13Jul2025 10:56:09.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_chocowa lost connection: Disconnected
+[13Jul2025 10:56:09.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_chocowa left the game
